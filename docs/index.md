@@ -1,4 +1,4 @@
-[//]: # (# How to Crack JetBrains Suite ?)
+# How to Crack JetBrains Suite ?)
 မိမိတို့ crack လုပ်လိုသည့် offical app ကို [jetbrains](https://www.jetbrains.com/) မှ download ရယူပြီး install ပြုလုပ်ထားပါ။ 
 ပြီးလျှင် အောက်ပါ links များထဲမှ တစ်ခုကို သွားပါ။
 
