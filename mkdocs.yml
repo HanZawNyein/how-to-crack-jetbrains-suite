@@ -14,5 +14,3 @@ markdown_extensions:
   - pymdownx.superfences
 repo_url: https://github.com/HanZawNyein/how-to-crack-jetbrains-suite
 repo_name: HanZawNyein/how-to-crack-jetbrains-suite
-plugins:
-  - git-authors
