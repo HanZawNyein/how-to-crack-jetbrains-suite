@@ -1,0 +1,18 @@
+site_name: Agga
+theme:
+  name: material
+  language: my
+  icon:
+    repo: fontawesome/brands/github
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+repo_url: https://github.com/HanZawNyein/how-to-crack-jetbrains-suite
+repo_name: HanZawNyein/how-to-crack-jetbrains-suite
+plugins:
+  - git-authors
